@@ -39,10 +39,6 @@ trojan://c7d636d0-c03b-11ef-8e34-1239d0255272@fr1.test3.net:443/vodafone.com.tr?
 trojan://c5b79390-c03b-11ef-b9e7-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#آمریکا-h1
 trojan://c3fee5a0-c03b-11ef-a33a-1239d0255272@uk1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#انگلیس-h1
 
-trojan://c7d636d0-c03b-11ef-8e34-1239d0255272@vodafone.com.tr:443/?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#فرانسه-h1
-trojan://c5b79390-c03b-11ef-b9e7-1239d0255272@vodafone.com.tr:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#آمریکا-h1
-trojan://c3fee5a0-c03b-11ef-a33a-1239d0255272@vodafone.com.tr:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#انگلیس-h1
-
 trojan://c408a780-bfe3-11ef-a409-1239d0255272@fr1.test3.net:443/time.is?sni=time.is#فرانسه-1
 trojan://b2b527a0-bfe3-11ef-8c86-1239d0255272@uk1.test3.net:443/time.is?sni=time.is#انگلیس-1
 trojan://adc69b00-bfe3-11ef-9477-1239d0255272@usa.test3.net:443/time.is?sni=time.is#امریکا-1
